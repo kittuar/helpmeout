@@ -1,4 +1,4 @@
-# helpmeout
+# I'm doing my best 
 so! what I would like is:
 
 says a sentence
@@ -13,6 +13,7 @@ model is still red for 2 seconds after not recieving input
 
 model turns white
 
+///
 
 what's HAPPENING is:
 
